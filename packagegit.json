@@ -1,7 +1,4 @@
 {
 "Id": 5,
-"Name": "Unit",
-"GitDependencies": {
-  "cn.etetet.core": "https://github.com/ET-Packages/cn.etetet.core.git#0.0.1"
-}
+"Name": "Unit"
 }
