@@ -1,7 +1,7 @@
-{
+﻿{
   "name": "cn.etetet.unit",
   "displayName": "ET.Unit",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "unity": "2022.3",
   "description": "提供一个包含位置旋转的entity，可以作为场景中的实体",
   "author": {
@@ -14,10 +14,9 @@
   },
   "relatedPackages": {},
   "dependencies": {
-    "cn.etetet.core": "0.0.19"
+    "cn.etetet.core": "0.0.20"
   },
-  "publishConfig": 
-  { 
-    "registry": "https://npm.pkg.github.com/@ET-Packages" 
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/@ET-Packages"
   }
 }
